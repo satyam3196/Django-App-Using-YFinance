@@ -1,6 +1,6 @@
 # Django-App-Using-YFinance
 ## Group 10 - Module ECS781P - Cloud Computing
-### Miguel Almodovar, Venkatraman Suresh, Satyam Sharma, Shaurya Rana
+### Satyam Sharma, Miguel Almodovar, Venkatraman Suresh, Shaurya Rana
 
 
 ## Funtionality
